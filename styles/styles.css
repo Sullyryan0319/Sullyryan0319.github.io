@@ -27,7 +27,7 @@ a{
 }
 
 .margintop-lg{
-    margin-top: 25%;
+    margin-top: 23%;
 }
 
 .margintop-xl{
@@ -68,7 +68,7 @@ a{
 }
 
 .heading_home{
-    font-size: 6rem;
+    font-size: 10rem;
 }
 
 .heading_contact{
@@ -139,18 +139,19 @@ a{
   
   
   .column-2 {
-    
+    border-radius: 5%;
     width: 45%;
-    padding: 40px;
-    padding-left:300px;
-    padding-right: 70px;
+    padding: 20px;
+    padding-left:370px;
+    padding-right: 50px;
     height: 540px;
     margin-top: 25px;
     margin:30px;
-    margin-right:30px;
+    margin-left: 28%;
+    margin-right:60px;
     margin-bottom: 70px;
-    background-color: #FEDE00;
-    line-height:2;
+    background-color: #d8a86e;
+    line-height:1.5;
   }
 
 
@@ -163,11 +164,15 @@ a{
   }
 
 .front_box{
+    padding-right: 30px;
+    height: 450px;
+    width: 220px;
     position:absolute;
+    top: 250px;
     z-index: 2;
 }
 
 .back_box{
-    position: absolute;
+    position:relative;
     z-index: 1;
 }
