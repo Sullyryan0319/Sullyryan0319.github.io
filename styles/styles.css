@@ -27,7 +27,7 @@ a{
 }
 
 .margintop-lg{
-    margin-top: 23%;
+    margin-top: 3%;
 }
 
 .margintop-xl{
@@ -36,6 +36,10 @@ a{
 
 .brand-color{
     color: #d8a86e;
+}
+
+.text_shadow{
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .contact_color{
